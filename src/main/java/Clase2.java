@@ -3,7 +3,6 @@ public class Clase2 {
 
     public static void main(String[] args) {
         
-        
         //RF1
         Docente d=new Docente("123","camilo","xxxxx","nada",555,1.90f,85);
         System.out.println(d.calcularIMC());

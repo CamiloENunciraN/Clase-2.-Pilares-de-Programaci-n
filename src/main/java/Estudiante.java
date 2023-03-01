@@ -22,8 +22,6 @@ private void generarCarrera(String carrera){
     this.carrera=c;
 }
 
-
-
 //Calcular matricular proyecto de grado
 
   public String matricularProyectoGrado(){

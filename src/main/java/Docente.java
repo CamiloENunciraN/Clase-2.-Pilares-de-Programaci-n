@@ -61,5 +61,4 @@ String c;
     public void setPeso(float peso) {
         this.peso = peso;
     }
-  
 }

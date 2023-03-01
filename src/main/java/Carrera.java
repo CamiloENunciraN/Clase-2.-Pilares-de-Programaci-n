@@ -25,6 +25,4 @@ public class Carrera {
         this.numCredito = numCredito;
     }
     
-    
-    
 }

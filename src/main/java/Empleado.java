@@ -55,5 +55,4 @@ public Empleado(String codigo,String nombre,String apellido,float salario){
     public void setSalario(float salario) {
         this.salario = salario;
     }
-  
 }

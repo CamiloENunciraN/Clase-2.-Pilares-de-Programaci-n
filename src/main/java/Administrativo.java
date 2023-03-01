@@ -5,7 +5,6 @@ public class Administrativo extends Empleado{
 
 private int anioIngreso;
 
-
 //constructor
 public Administrativo(String codigo,String nombre,String apellido, float salario,int anioIngreso){
     
